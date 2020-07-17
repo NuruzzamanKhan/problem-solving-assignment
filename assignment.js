@@ -15,7 +15,6 @@ function woodCalculator(chair, table, bed){
 
 
 //brickCalculator
-
 function brickCalculator(floor) {
     if (floor <= 10) {
       let feetUnderTen = 15 * floor;
